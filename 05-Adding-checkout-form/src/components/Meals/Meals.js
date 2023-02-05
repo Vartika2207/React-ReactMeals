@@ -1,0 +1,15 @@
+//rendering that meals list, summary text about it
+import React, { Fragment } from 'react'
+import MealsSummary from './MealsSummary';
+import AvailableMeals from './AvailableMeals';
+
+const Meals = () => {
+  return (
+    <Fragment>
+      <MealsSummary/>
+      <AvailableMeals/>
+    </Fragment>
+  )
+};
+
+export default Meals;
