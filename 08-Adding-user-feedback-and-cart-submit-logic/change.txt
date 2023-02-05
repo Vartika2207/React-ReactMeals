@@ -1,0 +1,8 @@
+
+
+The forms shows feedback to user on wrong form submit and data in cart is cleared after 
+cart is submitted.
+Changes are made in Card.js, cart-context.js, CartProvider.js
+
+
+
